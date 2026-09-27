@@ -1,0 +1,8 @@
+# Excel temp / lock files
+~$*
+*.tmp
+
+# OS files
+Thumbs.db
+.DS_Store
+desktop.ini
